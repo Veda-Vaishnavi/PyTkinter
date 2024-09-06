@@ -1,0 +1,24 @@
+test-1: basic syntax(label)
+test-2: grid
+test-3: button
+test-4: input fields
+test-5: calculator
+test-6: icons,images,exit buttons //use .ico for icons only that works
+test-7: image viewer
+test-8: status bar// anchoring & padding // sticky the border like thing. border relief
+test-9: adding frames to programme
+test-10: radio buttons// getting values of radio buttons using a button
+test-11: Message box
+test-12: Create a new window
+test-13: Open files dialog box
+test-14: Sliders
+test-15: Checkboxes //the checkbox with onset and offset by default is checked and doesn't print anyvalue.
+test-16: Dropdown menu //doesnot have default value
+test-17: Databases
+test-18: Building GUI for our database app.
+test-19: Delete a record from our database.
+test-20: Update a record
+test-21: Build a weather app //connect to an api through tkinter
+part-22: change colors in our weather app
+part-23: zipcode lookup form
+test-24: Matplotlib charts
